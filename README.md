@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rohit Rawat. Usually have two profile over the web (@garhwalinauna and @rrrohit)
-- 👀 I’m interested in Data Science and Mathematics primarily. (Little bit Public Policy and Economics as well)
-- 🌱 I’m currently learning applying data science techniques to business problems and datasets.
+- 👋 Hi, I’m Rohit Rawat. Usually have two profiles over the web (@garhwalinauna and @rrrohit)
+- 👀 I’m interested in Data Science and Mathematics primarily. (Little bit Public Policy and Economics)
+- 🌱 I’m currently learning to apply data science techniques to business problems and datasets.
 - 💞️ I’m looking to collaborate on projects using Deep Learning.
 - 📫 How to reach me, drop a message on my [LinkedIn profile](https://www.linkedin.com/in/rohit-rawat-68778a8b/).
 
