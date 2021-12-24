@@ -13,6 +13,7 @@ Brief Academic & Professional Journey
 Projects
 - Credit Card Default Prediction | Supervised Learning | Classification | UBC Vancouver. [link](https://github.com/garhwalinauna/Credit-Card-Default-Prediction)
 - Data Analytics with Managerial Applications, Indian Institute of Management, Lucknow, India. [link](https://github.com/garhwalinauna/analytics-internship-iiml)
+- Mathematics behind Cryptosystems | Indian Statistical Institute, Bengaluru, India.  [link](https://github.com/garhwalinauna/cryptography-isib)
 
 garhwalinauna
 - garhwali derives from the region Garhwal in Uttarakhand, India where I was born and lived majority of my life
