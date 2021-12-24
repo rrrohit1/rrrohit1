@@ -11,7 +11,8 @@ Brief Academic & Professional Journey
 - Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
 
 Projects
-- Data Analytics with Managerial Applications, Indian Institute of Management, Lucknow. [link](https://github.com/garhwalinauna/analytics-internship-iiml)
+- Credit Card Default Prediction | Supervised Learning | Classification | UBC Vancouver. [link](https://github.com/garhwalinauna/Credit-Card-Default-Prediction)
+- Data Analytics with Managerial Applications, Indian Institute of Management, Lucknow, India. [link](https://github.com/garhwalinauna/analytics-internship-iiml)
 
 garhwalinauna
 - garhwali derives from the region Garhwal in Uttarakhand, India where I was born and lived majority of my life
