@@ -5,10 +5,13 @@
 - 📫 How to reach me, drop a message on my [LinkedIn profile](https://www.linkedin.com/in/rohit-rawat-68778a8b/).
 
 Brief Academic & Professional Journey
-- B.Sc. Math, Hindu College, University of Delhi, India, 2016
-- M.Sc. Math, IIT Bombay, India, 2018
-- Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, (2018-21)
 - Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
+- Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, (2018-21)
+- M.Sc. Mathematics, Indian Institute of Technology Bombay, India, 2018
+- B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
+
+
+
 
 Projects
 - Credit Card Default Prediction | Supervised Learning | Classification | UBC Vancouver. [link](https://github.com/garhwalinauna/Credit-Card-Default-Prediction)
