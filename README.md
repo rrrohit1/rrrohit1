@@ -18,6 +18,14 @@ Projects
 - Data Analytics with Managerial Applications, Indian Institute of Management, Lucknow, India. [link](https://github.com/garhwalinauna/analytics-internship-iiml)
 - Mathematics behind Cryptosystems | Indian Statistical Institute, Bengaluru, India.  [link](https://github.com/garhwalinauna/cryptography-isib)
 
+
+Miscellaneous
+
+- My Kaggle [notebooks](https://www.kaggle.com/rrrohit/code)
+- Some medium [articles](https://medium.com/@rrrohit/thinking-fastai-and-slow-day-1-94cb7a64616a?source=friends_link&sk=063bd7160332293a6014d3421f191fe6) on Data Science
+
+
+
 garhwalinauna
 - garhwali derives from the region Garhwal in Uttarakhand, India where I was born and lived majority of my life
 - nauna means boy in my native Garhwali language
