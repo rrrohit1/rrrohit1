@@ -14,13 +14,14 @@ Brief Academic & Professional Journey
 
 
 Projects
-- Credit Card Default Prediction | Supervised Learning | Classification | UBC Vancouver. [link](https://github.com/garhwalinauna/Credit-Card-Default-Prediction)
-- Data Analytics with Managerial Applications, Indian Institute of Management, Lucknow, India. [link](https://github.com/garhwalinauna/analytics-internship-iiml)
-- Mathematics behind Cryptosystems | Indian Statistical Institute, Bengaluru, India.  [link](https://github.com/garhwalinauna/cryptography-isib)
+- [Credit Card Default Prediction](https://github.com/garhwalinauna/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver.
+- [Data Analytics with Managerial Applications](https://github.com/garhwalinauna/analytics-internship-iiml) | Indian Institute of Management Lucknow, India.
+- [Mathematics behind Cryptosystems](https://github.com/garhwalinauna/cryptography-isib) | Indian Statistical Institute, Bengaluru, India.
 
 
 Miscellaneous
 
+- My [resume](https://github.com/garhwalinauna/garhwalinauna/blob/main/One-Page-Resume-27-12.pdf)
 - My Kaggle [notebooks](https://www.kaggle.com/rrrohit/code)
 - Some medium [articles](https://medium.com/@rrrohit/thinking-fastai-and-slow-day-1-94cb7a64616a?source=friends_link&sk=063bd7160332293a6014d3421f191fe6) on Data Science
 
