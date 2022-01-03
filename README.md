@@ -17,6 +17,7 @@
 
 ### Miscellaneous
 
+- [Crocodilia dataset](https://github.com/garhwalinauna/crocodilia-dataset) | Scraping image data using fastai
 - My [resume](https://github.com/garhwalinauna/garhwalinauna/blob/main/One-Page-Resume-27-12.pdf)
 - My Kaggle [notebooks](https://www.kaggle.com/rrrohit/code)
 - Some medium [articles](https://medium.com/@rrrohit/thinking-fastai-and-slow-day-1-94cb7a64616a?source=friends_link&sk=063bd7160332293a6014d3421f191fe6) on Data Science
