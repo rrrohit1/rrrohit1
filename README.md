@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Mathematics. (Little bit Public Policy and Economics)
 - 🌱 I’m currently learning to apply data science techniques to business problems and datasets.
 - 💞️ I’m looking to collaborate on projects using Deep Learning using image and audio.
-- [LinkedIn](https://www.linkedin.com/in/rohit-rawat-68778a8b/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HuggingFace](https://huggingface.co/rrrohit)
+- [LinkedIn](https://www.linkedin.com/in/rohit-rawat-68778a8b/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
 
 ### Brief Academic & Professional Journey
 - Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
