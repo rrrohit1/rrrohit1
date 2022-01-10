@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Rawat. Usually have two profiles over the web (@garhwalinauna and @rrrohit)
+- 👋 Hi, I’m Rohit Rawat. 
 - 👀 I’m interested in Data Science and Mathematics. (Little bit Public Policy and Economics)
 - 🌱 I’m currently learning to apply data science techniques to business problems and datasets.
 - 💞️ I’m looking to collaborate on projects using Deep Learning using image and audio.
@@ -23,8 +23,3 @@
 - Some medium [articles](https://medium.com/@rrrohit/thinking-fastai-and-slow-day-1-94cb7a64616a?source=friends_link&sk=063bd7160332293a6014d3421f191fe6) on Data Science
 - Read 53 books in 2020 and more at [Goodreads](https://www.goodreads.com/user/show/24741273-rohit-rawat)
 
-
-
-garhwalinauna
-- garhwali derives from the region Garhwal in Uttarakhand, India where I was born and lived majority of my life
-- nauna means boy in my native Garhwali language
