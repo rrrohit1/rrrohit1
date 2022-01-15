@@ -18,7 +18,7 @@
 ### Miscellaneous
 
 - My [resume](https://github.com/garhwalinauna/garhwalinauna/blob/main/One-Page-Resume-27-12.pdf)
-- Ranked in Top 2% (91/3545) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
+- Top 3% (91/3545, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
 - Read 53 books in 2020 and more at [Goodreads](https://www.goodreads.com/user/show/24741273-rohit-rawat)
 
 ### Some interesting notebooks
