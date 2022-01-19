@@ -1,8 +1,8 @@
 ![](wallpaper.jpg)
 
-- 👀 I’m interested in Data Science and Mathematics. (Little bit Public Policy and Economics)
-- 🌱 I’m currently learning to apply data science techniques to business problems and datasets.
-- 💞️ I’m looking to collaborate on projects using Deep Learning using image and audio.
+- I’m interested in Data Science and Mathematics.
+- I’m currently learning to apply data science techniques to business problems and datasets.
+- I’m looking to collaborate on Deep Learning projects using image and audio.
 - [LinkedIn](https://www.linkedin.com/in/rohit-rawat-68778a8b/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
 
 ### Brief Academic & Professional Journey
