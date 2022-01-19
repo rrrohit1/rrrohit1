@@ -12,6 +12,7 @@
 
 ### Projects
 - [Credit Card Default Prediction](https://github.com/garhwalinauna/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver.
+- [covizpy](https://github.com/UBC-MDS/covizpy) | [covizr](https://github.com/UBC-MDS/covizr) | Python and R packages to visualize COVID-19 data
 - [Data Analytics with Managerial Applications](https://github.com/garhwalinauna/analytics-internship-iiml) | Indian Institute of Management Lucknow, India.
 - [Mathematics behind Cryptosystems](https://github.com/garhwalinauna/cryptography-isib) | Indian Statistical Institute, Bengaluru, India.
 
