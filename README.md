@@ -12,14 +12,14 @@
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
 
 ### Projects
-- [Credit Card Default Prediction](https://github.com/garhwalinauna/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
+- [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/UBC-MDS/covizpy) | [covizr](https://github.com/UBC-MDS/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
-- [Data Analytics with Managerial Applications](https://github.com/garhwalinauna/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
-- [Mathematics behind Cryptosystems](https://github.com/garhwalinauna/cryptography-isib) | Indian Statistical Institute, Bengaluru, India
+- [Data Analytics with Managerial Applications](https://github.com/rrrohit1/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
+- [Mathematics behind Cryptosystems](https://github.com/rrrohit1/cryptography-isib) | Indian Statistical Institute, Bengaluru, India
 
 ### Miscellaneous
 
-- My [resume](https://github.com/garhwalinauna/garhwalinauna/blob/main/One-Page-Resume-27-12.pdf)
+- My [resume](https://github.com/rrrohit1/rrrohit1/blob/main/One-Page-Resume-27-12.pdf)
 - Top 3% (91/3545, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
 - [Who should Manchester United scout?](https://rrrohit1.github.io/2022-01-22-fifa-preliminary-analysis/)
 - Read 53 books in 2020 and more at [Goodreads](https://www.goodreads.com/user/show/24741273-rohit-rawat)
@@ -30,4 +30,4 @@
 - [Classification](https://www.kaggle.com/rrrohit/classification-using-svc) | Supervised Learning | SVC 
 - Experimenting with fastai
     * [fastai VS Logistic Regression](https://www.kaggle.com/rrrohit/fastai-vs-logistic-regression)
-    * [Crocodilia dataset](https://github.com/garhwalinauna/crocodilia-dataset) | Scraping image data using fastai
+    * [Crocodilia dataset](https://github.com/rrrohit1/crocodilia-dataset) | Scraping image data using fastai
