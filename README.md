@@ -1,9 +1,8 @@
 ![](wallpaper.jpg)
 
-- I’m interested in Data Science and Mathematics.
-- I’m currently learning to apply data science techniques to business problems and datasets.
-- I’m looking to collaborate on Deep Learning projects using image and audio.
-- [LinkedIn](https://www.linkedin.com/in/rohit-rawat-68778a8b/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
+I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics before this and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models using PyTorch and fastai to solve image and audio data. I actively participate in Kaggle Competitions to discover novel methods to tackle varied data problems. 
+
+- [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
 
 ### Brief Academic & Professional Journey
 - Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
