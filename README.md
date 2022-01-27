@@ -30,3 +30,8 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 - Experimenting with fastai
     * [fastai VS Logistic Regression](https://www.kaggle.com/rrrohit/fastai-vs-logistic-regression)
     * [Crocodilia dataset](https://github.com/rrrohit1/crocodilia-dataset) | Scraping image data using fastai
+
+### Some stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rrrohit1)](https://github.com/rrrohit1/github-readme-stats&hide_title)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrrohit1&layout=compact)](https://github.com/rrrohit1/github-readme-stats)
