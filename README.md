@@ -12,7 +12,7 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 
 ### Projects
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
-- [covizpy](https://github.com/UBC-MDS/covizpy) | [covizr](https://github.com/UBC-MDS/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
+- [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
 - [Data Analytics with Managerial Applications](https://github.com/rrrohit1/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
 - [Mathematics behind Cryptosystems](https://github.com/rrrohit1/cryptography-isib) | Indian Statistical Institute, Bengaluru, India
 
