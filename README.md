@@ -11,6 +11,7 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
 
 ### Projects
+- [Pruning CNN models](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
 - [Data Analytics with Managerial Applications](https://github.com/rrrohit1/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
