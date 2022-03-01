@@ -12,6 +12,7 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 
 ### Projects
 - [Pruning CNN models](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
+- [FIFA 21 Analysis](https://github.com/rrrohit1/fifa-analysis-21) | Clustering | Player recommendation
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
 - [Data Analytics with Managerial Applications](https://github.com/rrrohit1/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
