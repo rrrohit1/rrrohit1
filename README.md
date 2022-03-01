@@ -32,3 +32,4 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 - Experimenting with fastai
     * [fastai VS Logistic Regression](https://www.kaggle.com/rrrohit/fastai-vs-logistic-regression)
     * [Crocodilia dataset](https://github.com/rrrohit1/crocodilia-dataset) | Scraping image data using fastai
+    * [fastai baseline model](https://www.kaggle.com/rrrohit/fastai-starter-baseline) | Multi-label Tabular Classification
