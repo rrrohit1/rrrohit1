@@ -22,6 +22,7 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 
 - My [resume](https://github.com/rrrohit1/rrrohit1/blob/main/One-Page-Resume-27-12.pdf)
 - Top 3% (87/3537, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
+- Top 2% (16/829) in Kaggle competition [WiDS Datathon 2022](https://www.kaggle.com/c/widsdatathon2022/leaderboard)
 - [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=friends_link&sk=096ba82dca16702169b0af6876c97474)
 - Read 53 books in 2020 and more at [Goodreads](https://www.goodreads.com/user/show/24741273-rohit-rawat)
 
