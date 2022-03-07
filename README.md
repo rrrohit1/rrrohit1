@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics before this and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and audio data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
+I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and audio data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
 
 Currently, I'm participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdclef-2022/code) - identify bird species by sound.
 
