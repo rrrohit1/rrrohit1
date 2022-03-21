@@ -15,7 +15,6 @@ Currently, I'm participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdcle
 ### Projects
 - [Pruning CNN models](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
 - [Netflix Dashboard](https://github.com/rrrohit1/netflixpy_dashboard) | Data Visualization | Dash | [Heroku app](https://dsci-532-netflixpy.herokuapp.com/)
-- [FIFA 21 Analysis](https://github.com/rrrohit1/fifa-analysis-21) | Clustering | Player recommendation
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
 - [Data Analytics with Managerial Applications](https://github.com/rrrohit1/analytics-internship-iiml) | Indian Institute of Management Lucknow, India
