@@ -13,7 +13,8 @@ Currently, I'm participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdcle
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
 
 ### Projects
-- [Pruning CNN models](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
+- [Identify bird species by sound (ongoing)](https://github.com/rrrohit1/BirdCLEF-2022) | Audio Classification | MelSpectrogram
+- [Pruning CNN models (ongoing)](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
 - [Netflix Dashboard](https://github.com/rrrohit1/netflixpy_dashboard) | Data Visualization | Dash | [Heroku app](https://dsci-532-netflixpy.herokuapp.com/) | UBC Vancouver
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
