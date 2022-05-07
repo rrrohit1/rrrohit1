@@ -40,3 +40,6 @@ Currently, I'm participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdcle
     * [fastai VS Logistic Regression](https://www.kaggle.com/rrrohit/fastai-vs-logistic-regression)
     * [Crocodilia dataset](https://github.com/rrrohit1/crocodilia-dataset) | Scraping image data using fastai
     * [fastai baseline model](https://www.kaggle.com/rrrohit/fastai-starter-baseline) | Multi-label Tabular Classification
+
+
+P.S. Proving theorems or providing counterexamples will always be more pleasurable than writing clean, bug-free scripts.
