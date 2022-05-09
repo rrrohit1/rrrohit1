@@ -5,7 +5,9 @@ I'm currently a graduate student in the Master of Data Science program at the Un
 Starting May 2021, I will be starting an internship at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
 It is a Computer Vision project for video confirmation of head impact events in contact sports.  
 
-Currently, I'm participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdclef-2022/code) - identify bird species by sound.
+Currently:
+- participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdclef-2022/code) - identify bird species by sound.
+- contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
 
