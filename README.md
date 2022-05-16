@@ -2,7 +2,7 @@
 
 I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and audio data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
 
-Starting May 2021, I will be starting an internship at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
+Starting May 2021, I am working on a [capstone project](https://github.com/AHNR0/Head-Impact-Detection) at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
 It is a Computer Vision project for video confirmation of head impact events in contact sports.  
 
 Currently:
