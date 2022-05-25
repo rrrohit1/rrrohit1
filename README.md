@@ -2,11 +2,11 @@
 
 I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and audio data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
 
-Starting May 2021, I am working on a [capstone project](https://github.com/AHNR0/Head-Impact-Detection) at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
+Starting May 2021, I am working on a [capstone project](https://github.com/rrrohit1/Head-Impact-Detection) at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
 It is a Computer Vision project for video confirmation of head impact events in contact sports.  
 
 Currently:
-- participating in [BirdCLEF 2022](https://www.kaggle.com/c/birdclef-2022/code) - identify bird species by sound.
+- learning and implementing object detection models (YOLOv5, SSD) and multiple object tracking models (DeepSORT) to identify events in videos
 - contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
@@ -18,8 +18,7 @@ Currently:
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
 
 ### Projects
-- [Identify bird species by sound (ongoing)](https://github.com/rrrohit1/BirdCLEF-2022) | Audio Classification | MelSpectrogram
-- [Pruning CNN models (ongoing)](https://github.com/rrrohit1/pruning-cnn-models) | Transfer Learning | Image Classification
+- [Identify head impact events in sports videos](https://github.com/rrrohit1/Head-Impact-Detection) | Computer Vision | Object Detection | Activity Recoginition
 - [Netflix Dashboard](https://github.com/rrrohit1/netflixpy_dashboard) | Data Visualization | Dash | [Heroku app](https://dsci-532-netflixpy.herokuapp.com/) | UBC Vancouver
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
