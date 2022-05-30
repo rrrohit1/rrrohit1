@@ -18,7 +18,7 @@ Currently:
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
 
 ### Projects
-- [Identify head impact events in sports videos](https://github.com/rrrohit1/Head-Impact-Detection) | Computer Vision | Object Detection | Activity Recoginition
+- Identify head impact events in sports videos | Computer Vision | Object Detection | Activity Recoginition
 - [Netflix Dashboard](https://github.com/rrrohit1/netflixpy_dashboard) | Data Visualization | Dash | [Heroku app](https://dsci-532-netflixpy.herokuapp.com/) | UBC Vancouver
 - [Credit Card Default Prediction](https://github.com/rrrohit1/Credit-Card-Default-Prediction) | Supervised Learning | Classification | UBC Vancouver
 - [covizpy](https://github.com/rrrohit1/covizpy) | [covizr](https://github.com/rrrohit1/covizr) | Python and R packages to visualize COVID-19 data | UBC Vancouver
