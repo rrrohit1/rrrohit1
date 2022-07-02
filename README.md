@@ -1,15 +1,14 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I'm currently a graduate student in the Master of Data Science program at the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and audio data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
+I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and text data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
 
-Starting May 2021, I am working on a capstone project at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. 
-It is a Computer Vision project for video confirmation of head impact events in contact sports.  
+I completed a capstone project at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. It was a Computer Vision project for video confirmation of head impact events in contact sports. YOLOv5 was used for object detection and ResNet 3D was used to classify helmet impacts in the sports video, achieving a recall of 0.9.
 
 Currently:
-- learning and implementing object detection models (YOLOv5, SSD) and multiple object tracking models (DeepSORT) to identify events in videos
+- partcipating in [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness), a Kaggle compeition to classify argumentative writing using RoBerta.
 - contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
 
-### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/)  
+### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
 - Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
