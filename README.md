@@ -11,7 +11,7 @@ Currently:
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
-- Master of Data Science Candidate, UBC, Vancouver, BC, Canada, 2022
+- Master of Data Science, UBC, Vancouver, BC, Canada, 2022
 - Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, 2018-21
 - M.Sc. Mathematics, Indian Institute of Technology Bombay, India, 2018
 - B.Sc. Mathematics, Hindu College, University of Delhi, India, 2016
