@@ -4,6 +4,8 @@ I graduated with a Master of Data Science degree from the University of British 
 
 I completed a capstone project at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. It was a Computer Vision project for video confirmation of head impact events in contact sports. YOLOv5 was used for object detection and ResNet 3D was used to classify helmet impacts in the sports video, achieving a recall of 0.9.
 
+Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
+
 Currently:
 - partcipating in [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness), a Kaggle compeition to classify argumentative writing using RoBerta.
 - contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
@@ -26,7 +28,6 @@ Currently:
 
 ### Miscellaneous
 
-- My [resume](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2007-05-22.pdf)
 - Top 3% (87/3537, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
 - Top 2% (16/829) in Kaggle competition [WiDS Datathon 2022](https://www.kaggle.com/c/widsdatathon2022/leaderboard)
 - [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=friends_link&sk=096ba82dca16702169b0af6876c97474)
