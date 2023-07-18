@@ -1,18 +1,17 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. I've developed machine learning models for recommending mutual funds schemes and used clustering methods to segment customers. Presently, I'm interested in Deep Learning models based on image and text data. I actively engage in Kaggle Competitions to discover novel methods to tackle varied data problems. 
-
-I completed a capstone project at Sensing in Biomechanical Processes Lab (SimPL), University of British Columbia, Vancouver. It was a Computer Vision project for video confirmation of head impact events in contact sports. YOLOv5 was used for object detection and ResNet 3D was used to classify helmet impacts in the sports video, achieving a recall of 0.9.
+I am currently working at Grainger Canada, working on deploying machine learning models to customer-facing applications and working towards productionalizing LLMs. I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. 
 
 Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
 
 Currently:
-- partcipating in [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness), a Kaggle compeition to classify argumentative writing using RoBerta.
+- partcipating in [Feedback Prize - Predicting Effective Arguments]([https://www.kaggle.com/competitions/feedback-prize-effectiveness](https://www.kaggle.com/competitions/kaggle-llm-science-exam)), a Kaggle compeition to use LLMs to answer difficult science questions.
 - contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
+- Data Scientist, Grainger, Canada, 2022-present
 - Master of Data Science, UBC, Vancouver, BC, Canada, 2022
 - Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, 2018-21
 - M.Sc. Mathematics, Indian Institute of Technology Bombay, India, 2018
