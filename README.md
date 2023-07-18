@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I am currently working at Grainger Canada, working on deploying machine learning models for customer-facing applications and working towards productionalizing LLMs. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
+I am currently working as a Data Scientist at Grainger Canada, deploying machine learning models for customer-facing applications and working towards productionalizing LLMs. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
 
 Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
 
