@@ -1,11 +1,11 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I am currently working at Grainger Canada, working on deploying machine learning models for customer-facing applications and working towards productionalizing LLMs. I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. 
+I am currently working at Grainger Canada, working on deploying machine learning models for customer-facing applications and working towards productionalizing LLMs. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
 
 Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
 
 Currently:
-- partcipating in [Feedback Prize - Predicting Effective Arguments]([https://www.kaggle.com/competitions/feedback-prize-effectiveness](https://www.kaggle.com/competitions/kaggle-llm-science-exam)), a Kaggle compeition to use LLMs to answer difficult science questions.
+- partcipating in [Kaggle - LLM Science Exam]([https://www.kaggle.com/competitions/feedback-prize-effectiveness](https://www.kaggle.com/competitions/kaggle-llm-science-exam)), a Kaggle compeition to use LLMs to answer difficult science questions.
 - contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
