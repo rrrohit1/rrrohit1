@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-I am currently working at Grainger Canada, working on deploying machine learning models to customer-facing applications and working towards productionalizing LLMs. I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. 
+I am currently working at Grainger Canada, working on deploying machine learning models for customer-facing applications and working towards productionalizing LLMs. I graduated with a Master of Data Science degree from the University of British Columbia, Vancouver. I have two degrees in Mathematics and have worked as an Analytics Manager in the FinTech domain. 
 
 Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
 
