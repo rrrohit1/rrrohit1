@@ -5,8 +5,7 @@ I am currently working as a Data Scientist at Grainger Canada, deploying machine
 Current version of my resume can be found [here](https://github.com/rrrohit1/rrrohit1/blob/main/1%20Page%20Resume%20-%2023-08-22.pdf).
 
 Currently:
-- partcipating in [Kaggle - LLM Science Exam]([https://www.kaggle.com/competitions/feedback-prize-effectiveness](https://www.kaggle.com/competitions/kaggle-llm-science-exam)), a Kaggle compeition to use LLMs to answer difficult science questions.
-- contributing to Hindi translation of HuggingFace's course. Check out my translation [here](https://huggingface.co/course/hi/chapter2/1?fw=pt).
+- partcipating in [The Learning Agency Lab - PII Data Detection]([[https://www.kaggle.com/competitions/feedback-prize-effectiveness](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data)](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data)), a Kaggle compeition to develop automated techniques to detect and remove PII from educational data.
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
