@@ -5,6 +5,12 @@ I am currently working as a Data Scientist at Grainger Canada, deploying machine
 Currently:
 - partcipating in [The Learning Agency Lab - PII Data Detection](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data), a Kaggle compeition to develop automated techniques to detect and remove PII from educational data.
 
+Recent work:
+
+- Developing a Flask API that integrates a local instance of Llama3, a large language model (LLM). <a href="https://github.com/rrrohit1/QnA-api">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;">
+</a>
+
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
