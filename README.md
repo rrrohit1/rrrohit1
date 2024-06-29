@@ -36,11 +36,15 @@ Recent work:
 - [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=friends_link&sk=096ba82dca16702169b0af6876c97474)
 - Read 53 books in 2020 and more at [Goodreads](https://www.goodreads.com/user/show/24741273-rohit-rawat)
 
-### Some interesting notebooks
+### Certifications
 
-- [Multicollinearity](https://www.kaggle.com/rrrohit/regression-ridge-or-lasso-multicollinearity) | Regression | Ridge and Lasso
-- [Classification](https://www.kaggle.com/rrrohit/classification-using-svc) | Supervised Learning | SVC 
-- Experimenting with fastai
-    * [fastai VS Logistic Regression](https://www.kaggle.com/rrrohit/fastai-vs-logistic-regression)
-    * [Crocodilia dataset](https://github.com/rrrohit1/crocodilia-dataset) | Scraping image data using fastai
-    * [fastai baseline model](https://www.kaggle.com/rrrohit/fastai-starter-baseline) | Multi-label Tabular Classification
+||||
+|-|--------------------------------------------|------------------------------------|
+|1.|Databricks Generative AI Fundamentals|[link](https://credentials.databricks.com/76ae830f-0429-4695-901b-72ec34dff414)|
+|2.|Databricks Certified Machine Learning Associate|[link](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8)|
+|3.|NVIDIA - Building Transformer-Based NLP Applications|[link](https://learn.nvidia.com/certificates?id=0dc8e004c49d4a469e22067de993e98e)|
+|4.|DeepLearning.AI - Machine Learning in Production|[link](https://www.coursera.org/account/accomplishments/certificate/NBYMTDP22NWR)|
+|5.|Coursera - Convolutional Neural Networks| [link](https://www.coursera.org/account/accomplishments/verify/P55RSVH4C33H)|
+|5.|HackerRank - SQL (Intermediate)|[link](https://www.hackerrank.com/certificates/512d8b73f624)|
+
+
