@@ -11,6 +11,9 @@ Recent work:
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 - Building a NER (Name-Entity Recoginiton) app using Hugging Face Transformers. <a href="https://github.com/rrrohit1/ner-starter">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
+- Convert image to pixels using OpenCV and Transformers. <a href="https://github.com/rrrohit1/image2pixel">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
+
 
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
