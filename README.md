@@ -43,11 +43,12 @@ Recent work:
 
 ||||
 |-|--------------------------------------------|------------------------------------|
-|1.|Databricks Generative AI Fundamentals|[link](https://credentials.databricks.com/76ae830f-0429-4695-901b-72ec34dff414)|
-|2.|Databricks Certified Machine Learning Associate|[link](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8)|
-|3.|NVIDIA - Building Transformer-Based NLP Applications|[link](https://learn.nvidia.com/certificates?id=0dc8e004c49d4a469e22067de993e98e)|
-|4.|DeepLearning.AI - Machine Learning in Production|[link](https://www.coursera.org/account/accomplishments/certificate/NBYMTDP22NWR)|
-|5.|Coursera - Convolutional Neural Networks| [link](https://www.coursera.org/account/accomplishments/verify/P55RSVH4C33H)|
+|1.|Astronomer Certification for Apache Airflow Fundamentals|[link](https://www.credly.com/badges/2ab2d376-2abd-4c23-9331-edb101b50573/)|
+|2.|Databricks Generative AI Fundamentals|[link](https://credentials.databricks.com/76ae830f-0429-4695-901b-72ec34dff414)|
+|3.|Databricks Certified Machine Learning Associate|[link](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8)|
+|4.|NVIDIA - Building Transformer-Based NLP Applications|[link](https://learn.nvidia.com/certificates?id=0dc8e004c49d4a469e22067de993e98e)|
+|5.|DeepLearning.AI - Machine Learning in Production|[link](https://www.coursera.org/account/accomplishments/certificate/NBYMTDP22NWR)|
+|6.|Coursera - Convolutional Neural Networks| [link](https://www.coursera.org/account/accomplishments/verify/P55RSVH4C33H)|
 |5.|HackerRank - SQL (Intermediate)|[link](https://www.hackerrank.com/certificates/512d8b73f624)|
 
 
