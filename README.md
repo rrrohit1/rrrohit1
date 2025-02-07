@@ -7,6 +7,8 @@ Currently:
 - preparing for Databricks Certified [Machine Learning Professional](https://www.databricks.com/learn/certification/machine-learning-professional) exam.
 
 Recent work:
+-  Create a summarization model using GPT/Llama/BART/T5 & evaluate its performance for CPU/GPU <a href="https://github.com/rrrohit1/text-summarization">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 - Developing a Flask API that integrates a local instance of Llama3, a large language model (LLM). <a href="https://github.com/rrrohit1/QnA-api">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 - Building a NER (Name-Entity Recoginiton) app using Hugging Face Transformers. <a href="https://github.com/rrrohit1/ner-starter">
@@ -18,7 +20,8 @@ Recent work:
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
-- Data Scientist, Grainger, Canada, 2022-present
+- Machine Learning Engineer, Accrete.AI, India, 2024-present
+- Data Scientist, Grainger, Canada, 2022-2024
 - Master of Data Science, UBC, Vancouver, BC, Canada, 2022
 - Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, 2018-21
 - M.Sc. Mathematics, Indian Institute of Technology Bombay, India, 2018
