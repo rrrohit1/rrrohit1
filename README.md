@@ -2,7 +2,7 @@
 
 Machine Learning Engineer at Accrete.AI. Working at the cross-section of Vision and NLP. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
 
-Recent work:
+### Recent work
 -  Create a summarization model using GPT/Llama/BART/T5 & evaluate its performance for CPU/GPU <a href="https://github.com/rrrohit1/text-summarization">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 - Developing a Flask API that integrates a local instance of Llama3, a large language model (LLM). <a href="https://github.com/rrrohit1/QnA-api">
