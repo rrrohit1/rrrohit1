@@ -2,10 +2,6 @@
 
 Machine Learning Engineer at Accrete.AI. Working at the cross-section of Vision and NLP. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
 
-Currently:
-- partcipating in [Learning Agency Lab - Automated Essay Scoring 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2), a Kaggle compeition to improve upon essay scoring algorithms to improve student learning outcomes
-- preparing for Databricks Certified [Machine Learning Professional](https://www.databricks.com/learn/certification/machine-learning-professional) exam.
-
 Recent work:
 -  Create a summarization model using GPT/Llama/BART/T5 & evaluate its performance for CPU/GPU <a href="https://github.com/rrrohit1/text-summarization">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
