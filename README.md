@@ -1,9 +1,11 @@
 <h2 align="center">👋 Hey! I'm Rohit.</h2>
 
-Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision and NLP. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
+Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision and Language. I have a Masters in Data Science and two degrees in Mathematics. I'm a Databricks Certified [Machine Learning Associate](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8#gs.3a2nl3).
 
 ### Recent work
 
+-  Built and evaluated a multi-modal agent with web, wiki, PDF, image-to-text, and transcription tools on the GAIA benchmark <a href="https://github.com/rrrohit1/hf-agents-gaia">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 -  Leveraging LangGraph Agents for Recipe Generation from Visual and Textual Inputs <a href="https://github.com/rrrohit1/genai-sous-chef">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Icon" width="30" height="30" style="margin-top: 50px;"> </a>
 -  Create a summarization model using GPT/Llama/BART/T5 & evaluate its performance for CPU/GPU <a href="https://github.com/rrrohit1/text-summarization">
@@ -32,6 +34,7 @@ Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision a
 
 ### Miscellaneous
 
+- [From Pantry to Plate: Building a GenAI Sous-Chef with LangGraph & Gemini](https://medium.com/@rrrohit/️-from-pantry-to-plate-building-a-genai-sous-chef-with-langgraph-gemini-3ec32ea225a7)
 - Top 3% (87/3537, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
 - Top 2% (16/829) in Kaggle competition [WiDS Datathon 2022](https://www.kaggle.com/c/widsdatathon2022/leaderboard)
 - [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=friends_link&sk=096ba82dca16702169b0af6876c97474)
@@ -41,12 +44,14 @@ Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision a
 
 ||||
 |-|--------------------------------------------|------------------------------------|
-|1.|Astronomer Certification for Apache Airflow Fundamentals|[link](https://www.credly.com/badges/2ab2d376-2abd-4c23-9331-edb101b50573/)|
-|2.|Databricks Generative AI Fundamentals|[link](https://credentials.databricks.com/76ae830f-0429-4695-901b-72ec34dff414)|
-|3.|Databricks Certified Machine Learning Associate|[link](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8)|
-|4.|NVIDIA - Building Transformer-Based NLP Applications|[link](https://learn.nvidia.com/certificates?id=0dc8e004c49d4a469e22067de993e98e)|
-|5.|DeepLearning.AI - Machine Learning in Production|[link](https://www.coursera.org/account/accomplishments/certificate/NBYMTDP22NWR)|
-|6.|Coursera - Convolutional Neural Networks| [link](https://www.coursera.org/account/accomplishments/verify/P55RSVH4C33H)|
-|5.|HackerRank - SQL (Intermediate)|[link](https://www.hackerrank.com/certificates/512d8b73f624)|
+|1.|Kaggle/Google 5-Day Gen AI Intensive |[link](https://www.kaggle.com/certification/badges/rrrohit/96)|
+|2.|HuggingFace Agents Course |[link](https://github.com/rrrohit1/hf-agents-gaia/blob/main/certificate.pdf)|
+|3.|Astronomer Certification for Apache Airflow Fundamentals|[link](https://www.credly.com/badges/2ab2d376-2abd-4c23-9331-edb101b50573/)|
+|4.|Databricks Generative AI Fundamentals|[link](https://credentials.databricks.com/76ae830f-0429-4695-901b-72ec34dff414)|
+|5.|Databricks Certified Machine Learning Associate|[link](https://credentials.databricks.com/b7ef2454-119b-48ff-b35a-b57de5b2b5b8)|
+|6.|NVIDIA - Building Transformer-Based NLP Applications|[link](https://learn.nvidia.com/certificates?id=0dc8e004c49d4a469e22067de993e98e)|
+|7.|DeepLearning.AI - Machine Learning in Production|[link](https://www.coursera.org/account/accomplishments/certificate/NBYMTDP22NWR)|
+|8.|Coursera - Convolutional Neural Networks| [link](https://www.coursera.org/account/accomplishments/verify/P55RSVH4C33H)|
+|9.|HackerRank - SQL (Intermediate)|[link](https://www.hackerrank.com/certificates/512d8b73f624)|
 
 
