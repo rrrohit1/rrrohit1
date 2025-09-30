@@ -17,7 +17,7 @@ Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision a
 ### [LinkedIn](https://www.linkedin.com/in/rrrohit/) | [Kaggle](https://www.kaggle.com/rrrohit) | [Medium](https://medium.com/@rrrohit) | [LeetCode](https://leetcode.com/rrrohit/) | [HackerRank](https://www.hackerrank.com/rrrohit)
 
 ### Brief Academic & Professional Journey
-- Machine Learning Engineer, Accrete.AI, India, 2024-present
+- Senior Applied Scientist - I, Accrete.AI, India, 2024-present
 - Data Scientist, Grainger, Canada, 2022-2024
 - Master of Data Science, UBC, Vancouver, BC, Canada, 2022
 - Digital Analytics Manager, SBI Funds Management Pvt. Ltd., India, 2018-21
