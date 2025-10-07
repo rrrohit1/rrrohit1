@@ -34,6 +34,7 @@ Senior Applied Scientist at Accrete.AI. Working at the cross-section of Vision a
 
 ### Miscellaneous
 
+- [FlashAttention Explained](https://medium.com/@rrrohit/flashattention-explained-cd65b9090835)
 - [From Pantry to Plate: Building a GenAI Sous-Chef with LangGraph & Gemini](https://medium.com/@rrrohit/️-from-pantry-to-plate-building-a-genai-sous-chef-with-langgraph-gemini-3ec32ea225a7)
 - Top 3% (87/3537, Silver) in Kaggle competition [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/rrrohit/competitions?tab=completed)
 - Top 2% (16/829) in Kaggle competition [WiDS Datathon 2022](https://www.kaggle.com/c/widsdatathon2022/leaderboard)
